@@ -41,3 +41,4 @@ while True:
     character.draw_now(x, y)
     delay(0.01)
 close_canvas()
+#구글 제미나이의 도움을 받아 작성하고 코파일럿을 통해 공부했습니다.
